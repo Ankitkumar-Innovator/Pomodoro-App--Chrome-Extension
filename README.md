@@ -147,4 +147,10 @@ This is a simple project — but it helped me understand:
 
 * Managing asynchronous flows
 
+## 🎥 Demo
+
+Watch how the extension works:
+
+(Pomodoro-App-Chrome-Extension-Demo.mp4)
+
 ***Small projects build real foundations.***
